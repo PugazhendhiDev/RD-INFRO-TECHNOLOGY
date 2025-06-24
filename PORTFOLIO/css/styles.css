@@ -225,7 +225,7 @@ a {
   }
 }
 
-.container-m {
+.parent-m {
   display: none;
 }
 
@@ -236,6 +236,10 @@ a {
 
   .loader {
     display: none;
+  }
+
+  .parent-m {
+    display: block;
   }
 
   .container-m {
