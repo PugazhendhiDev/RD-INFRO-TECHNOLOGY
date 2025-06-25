@@ -120,6 +120,7 @@ a {
   align-items: center;
   color: #fff;
   transition: transform 0.3s;
+  cursor: pointer;
 }
 
 .content:hover {
